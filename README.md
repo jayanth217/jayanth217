@@ -2,6 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=%2300FF00&center=true&vCenter=true&multiline=true&width=600&height=80&lines=AI+Engineer+%7C+ML+%7C+Computer+Vision;Space+Enthusiast+%7C+Full+Stack+Developer;Always+Exploring+New+Dimensions!+%F0%9F%9A%80)
 
+---
 
 ### 🚀 About Me
 
@@ -12,8 +13,27 @@
 - 🚀 **Building AI-powered tools for education & accessibility**
 - 💻 **Coding Ninja:** Java, Python, C, SQL, React, FastAPI
 
+---
 
+### 🔥 Skills & Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,sql,react,fastapi" alt="Tech Stack Icons" />
+</p>
+
+```python
+from time import sleep
+
+def coding_animation():
+    frames = ["🚀 Writing Code...", "🔍 Debugging...", "🔥 Optimizing...", "✅ Deployed!"]
+    for frame in frames:
+        print(frame, end="\r")
+        sleep(1)
+
+coding_animation()
+```
+
+---
 
 ### 🌍 Let's Connect!
 
@@ -22,7 +42,7 @@
 💻 **Leetcode:** [leetcode.com/u/jayanth2174](https://leetcode.com/u/jayanth2174/)  
 🎯 **HackerRank:** [HackerRank Profile](https://www.hackerrank.com/profile/22241A0515_jayy)  
 
-
+---
 
 ### 🔥 Fun Fact 
 > "Somewhere, something incredible is waiting to be known." - Carl Sagan 🌌

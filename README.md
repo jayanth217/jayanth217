@@ -1,6 +1,6 @@
 ### Hi there, I'm Jayanth! 👨‍💻🚀
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=%2300FF00&center=true&vCenter=true&multiline=true&width=600&height=80&lines=AI+Engineer+%7C+ML+%7C+Computer+Vision;Space+Enthusiast+%7C+Full+Stack+Developer;Always+Exploring+New+Dimensions!+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=%2300FF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+Engineer+%7C+ML+%7C+Computer+Vision;Space+Enthusiast+%7C+Full+Stack+Developer;Always+Exploring+New+Dimensions!+%F0%9F%9A%80)
 
 ---
 
@@ -17,18 +17,43 @@
 
 ### 🔥 Skills & Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,sql,react,fastapi" alt="Tech Stack Icons" />
-</p>
+<div align="left">
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" height="40" alt="sql logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" alt="opencv logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" />
+</div>
+
 
 ```python
-from time import sleep
+import sys
+import time
 
 def coding_animation():
-    frames = ["🚀 Writing Code...", "🔍 Debugging...", "🔥 Optimizing...", "✅ Deployed!"]
-    for frame in frames:
-        print(frame, end="\r")
-        sleep(1)
+    frames = [
+        "🚀 Writing Code...   ",
+        "🔍 Debugging...      ",
+        "🔥 Optimizing...     ",
+        "✅ Deployed!         "
+    ]
+    for _ in range(3):  # Loop animation for effect
+        for frame in frames:
+            sys.stdout.write("\r" + frame)
+            sys.stdout.flush()
+            time.sleep(0.5)
+    print("\nDone!")
 
 coding_animation()
 ```

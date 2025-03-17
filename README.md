@@ -11,7 +11,7 @@
 - 🔭 **Passionate about Cosmology, Space, and Robotics** 🌌
 - 🛠️ **Self-hosted LLM enthusiast** (Mistral, Phi, Gemma, Ollama)
 - 🚀 **Building AI-powered tools for education & accessibility**
-- 💻 **Coding Ninja:** Java, Python, C, SQL, React, FastAPI
+- 💻 **Tech Stack:** Java, Python, C, SQL, React, FastAPI
 
 ---
 

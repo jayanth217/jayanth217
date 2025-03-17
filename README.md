@@ -15,7 +15,7 @@
 
 ---
 
-### 🔥 Skills & Tech Stack
+### 🔥I Code with
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C" title="C" />
@@ -27,23 +27,23 @@
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" alt="OpenCV" title="OpenCV" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-Learn" title="Scikit-Learn" />
 </div>
-
+<!--
 ```python
 import itertools
 import time
 import sys
-
+--
 def coding_animation():
     frames = ["🚀 Writing Code...", "🔍 Debugging...", "🔥 Optimizing...", "✅ Deployed!"]
     for frame in itertools.cycle(frames):
         sys.stdout.write("\r" + frame + "  ")
         sys.stdout.flush()
         time.sleep(0.5)
-
+--
 coding_animation()
 ```
-
----
+-->
+<img src="coding-animation.gif" height="200" alt="Coding Animation">
 
 ### 🌍 Let's Connect!
 

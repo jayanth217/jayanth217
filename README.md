@@ -18,32 +18,21 @@
 ### 🔥I Code with
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C" title="C" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" height="40" alt="SQL" title="SQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" alt="React" title="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" title="FastAPI" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" alt="OpenCV" title="OpenCV" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-Learn" title="Scikit-Learn" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C" title="C" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java" title="Java" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" title="Python" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" height="40" alt="SQL" title="SQL" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" alt="React" title="React" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" title="FastAPI" /> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" alt="OpenCV" title="OpenCV" /> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-Learn" title="Scikit-Learn" />
+
 </div>
-<!--
-```python
-import itertools
-import time
-import sys
---
-def coding_animation():
-    frames = ["🚀 Writing Code...", "🔍 Debugging...", "🔥 Optimizing...", "✅ Deployed!"]
-    for frame in itertools.cycle(frames):
-        sys.stdout.write("\r" + frame + "  ")
-        sys.stdout.flush()
-        time.sleep(0.5)
---
-coding_animation()
-```
--->
-<img src="coding-animation.gif" height="200" alt="Coding Animation">
+<!-- <p align="center">
+  <img src="https://github.com/jayanth217/jayanth217/blob/main/skills.gif?raw=true" alt="Skills GIF"  />
+</p> -->
+
+---
 
 ### 🌍 Let's Connect!
 

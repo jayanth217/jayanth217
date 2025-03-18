@@ -28,9 +28,11 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-Learn" title="Scikit-Learn" />
 
 </div>
-<!-- <p align="center">
-  <img src="https://github.com/jayanth217/jayanth217/blob/main/skills.gif?raw=true" alt="Skills GIF"  />
-</p> -->
+<br>
+<div align="left" style="padding: 100px 0;">
+  <img src="https://raw.githubusercontent.com/jayanth217/jayanth217/refs/heads/main/video.gif" alt="Skills GIF" />
+</div>
+
 
 ---
 

@@ -36,12 +36,13 @@
 
 ### 🌍 Let's Connect!
 
-📫 **Email:** [bingijayanth21@gmail.com](mailto:bingijayanth21@gmail.com)  
-🌐 **LinkedIn:** [linkedin.com/in/jayanth-bingi-b05bb3307](https://www.linkedin.com/in/jayanth-bingi-b05bb3307/)  
-💻 **Leetcode:** [leetcode.com/u/jayanth2174](https://leetcode.com/u/jayanth2174/)  
-🎯 **HackerRank:** [HackerRank Profile](https://www.hackerrank.com/profile/22241A0515_jayy)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bingijayanth21@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayanth-bingi-b05bb3307/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/jayanth2174/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/22241A0515_jayy)
 
 ---
+
 
 ### 🔥 Fun Fact 
 > "Somewhere, something incredible is waiting to be known." - Carl Sagan 🌌

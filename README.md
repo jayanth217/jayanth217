@@ -1,17 +1,15 @@
 ### Hi there, I'm Jayanth! 👨‍💻🚀
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=%2300FF00&center=true&vCenter=true&multiline=true&width=600&height=120&lines=AI+Engineer+%7C+ML+%7C+Computer+Vision;Space+Enthusiast+%7C+Full+Stack+Developer;Always+Exploring+New+Dimensions!+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=%2300FF00&center=true&vCenter=true&multiline=true&width=600&height=120&lines=AI+Engineer+%7C+ML+%7C+Computer+Vision;+Full+Stack+Developer;Always+Exploring+New+Dimensions!+%F0%9F%9A%80)
 
 ---
 
 ### 🚀 About Me
 
-- 👨‍🎓 **3rd Year CSE Student @ GRIET**  
-- 💡 **Machine Learning | Computer Vision | AI** 🔍
-- 🔭 **Passionate about Cosmology, Space, and Robotics** 🌌
-- 🛠️ **Self-hosted LLM enthusiast** (Mistral, Phi, Gemma, Ollama)
-- 🚀 **Building AI-powered tools for education & accessibility**
-- 💻 **Tech Stack:** Java, Python, C, SQL, React, FastAPI
+🚀 I enjoy solving real-world problems using **AI/ML**, **Computer Vision**, and **Full Stack Development**.
+
+
+💡 Always exploring new ideas and open-source projects.
 
 ---
 
